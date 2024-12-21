@@ -14,7 +14,7 @@ A Python library for analyzing the sensitivity of neural network layers to compr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/LayerSensitivityProfiler.git
+git clone https://github.com/dsamuelhodge/LayerSensitivityProfiler.git
 cd LayerSensitivityProfiler
 ```
 
