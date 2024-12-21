@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "layer-sensitivity-profiler"
+version = "0.1.0"
+description = "A tool for analyzing and profiling the sensitivity of neural network layers to tensor compression"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+torch = "^2.1.0"
+numpy = "^1.24.0"
+matplotlib = "^3.7.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
